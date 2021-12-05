@@ -1,0 +1,6 @@
+# ide stuff
+.idea
+*.iml
+
+# hide data generation
+*.py
