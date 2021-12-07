@@ -4,3 +4,5 @@
 
 # hide data generation
 *.py
+*.csv
+*.npy
